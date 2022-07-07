@@ -1,2 +1,2 @@
 # Script-to-database
-Used XAMMP or Open Server Panel to connect to phpMyAdmin.
+Used XAMMP or Open Server Panel for connect to phpMyAdmin.
